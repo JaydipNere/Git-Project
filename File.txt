@@ -1,6 +1,8 @@
 Hello World....
 
 
-Adding Line to check modification in tracked file
+change 1 :Adding Line to check modification in tracked file
 
-Change: to fix Bug1
+Change 2 : to fix Bug1
+
+Change 3 : to fix Bug2  3-Way Merging
