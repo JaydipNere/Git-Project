@@ -17,4 +17,6 @@ Change 7 :-> to test stash for WI8 is inprogress
 
 Change 8 :-> to test push for WI8 from local master to remote master
 
+Change 9 :-> to test pull operation from remote master to local master
+
 
